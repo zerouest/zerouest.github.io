@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "aqua" # "air", "aqua", "contrast", "dark", "dirt", "
 
 # Site Settings
 locale                   : "ko"
-title                    : "C 프로그래밍"
+title                    : "why so 'C'erious?"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "송영서"
-description              : "시스템 프로그램을 위한 C언어"
+description              : "C언어 처음 배우기!"
 url                      : "https://zerouest.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "zerouest/zerouest.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -103,7 +103,7 @@ analytics:
 author:
   name             : "송영서"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "귀여운 HAFS 학생"
+  bio              : "항상 최선을 다하는 HAFS 학생"
   location         : "대한민국, 서울"
   email            : "bodle52340@gmail.com"
   links:
